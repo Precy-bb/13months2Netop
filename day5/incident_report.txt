@@ -1,0 +1,3 @@
+couldn't add dummy 0 because am on android kernel using my phone instead of a real linux kernel,plus i didn't want to root my phone
+but in netsim i succeeded in investigating properly everything making sure all pcs were talking to the other 
+n netsim i assigned a dummy ip address to the 3 pcs while making the 3rd pc my server,atfirst the ping didnt work but after seeing the rootcause was that the pc3 wasnt properly connected,i fixed it then 5ye ping worked as expected
