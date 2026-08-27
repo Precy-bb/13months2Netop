@@ -1,0 +1,4 @@
+Incident report: pc1 could not message pc2
+cause:after i did my investigation by checking the ip and saw that the ip was removed 
+fix: i fix2d it by restoring the ip address whixh came out sucessfully
+niw currently pc1 can now send messages to pc2,pc1 can now also ping pc2 without breaking
