@@ -1,0 +1,3 @@
+incident report 
+pc1 cant listen to pc2 so i conducted a ethernet switching and mac learning where i pinged pc1 in repeat four to send raffic before i went to tye switch and saw the mac address table and this was befire i pinged from pc1 as host and pc2 as source destination
+also checked process today with ps ,yhen checked the internet short port before grep bash which helped me understand the difference btw a process and a socket
